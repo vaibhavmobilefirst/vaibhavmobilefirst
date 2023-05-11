@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Bandal
 - 👀 I’m interested in web dev.
-- 🌱 I’m currently learning angular and nest.
+- 🌱 I’m currently learning nest.js.
 
 
 <!---
